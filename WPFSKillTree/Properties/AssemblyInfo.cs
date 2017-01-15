@@ -37,8 +37,8 @@ using System.Windows;
 // Updated by release.xml. DO NOT MODIFY!
 [assembly: AssemblyDescription("Passive skill tree planner for Path of Exile®")]
 [assembly: AssemblyCompany("PoESkillTree Team")]
-[assembly: AssemblyProduct("PoESkillTree - Atlas of Worlds")]
+[assembly: AssemblyProduct("PoESkillTree - Cutoff redux")]
 [assembly: AssemblyCopyright("Copyright © 2012-2016 PoESkillTree Team")]
 [assembly: AssemblyVersion("2.0.0.0")]
-[assembly: AssemblyFileVersion("2.3.0.1101")]
-[assembly: AssemblyInformationalVersion("2.3.0")]
+[assembly: AssemblyFileVersion("1.0.0.2")]
+[assembly: AssemblyInformationalVersion("1.0.0")]
